@@ -4,6 +4,6 @@ public class Testproject {
 
 	
 	public void main() {
-		System.out.println("Hello ");
+		System.out.println("Hello 2");
 	}
 }
